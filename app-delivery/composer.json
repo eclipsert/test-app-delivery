@@ -1,0 +1,9 @@
+{
+    "name": "smpl/delivery",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "./src/"
+        }
+    }
+}
